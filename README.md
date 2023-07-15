@@ -27,6 +27,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MysticWasHere0/MysticWasHere0/main/snake.yml" alt="Snake animation" />
+
 
 ###
