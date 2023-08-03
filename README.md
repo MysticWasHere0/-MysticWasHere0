@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">echo<br>Batch is my favorite coding language.<br>pause</p>
+<p align="center">echo<br>Batch is my favorite coding language.<br></p>
 
 ###
 
